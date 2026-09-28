@@ -1,34 +1,48 @@
-# Hi, I'm Efe! 👋
+# Hi, I'm Efe Mırık! 👋
 
-I'm a software developer with a strong passion for back-end development and cybersecurity. I focus on writing clean, efficient code and constantly exploring new technologies.
+**Security-Focused Backend Engineer & Network Systems Enthusiast**  
+Building resilient backend architectures, low-level network defense tools, and enterprise infrastructure with an **"assume breach"** mindset.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-mirik-a51892276/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:efemirik05@gmail.com)
+
+---
 
 ## 🚀 About Me
 
-* 🎓 1st-year student studying Internet and Network Technologies at Istanbul Aydin University.
-* 💼 Previously completed a 1-year internship as a Junior Software Developer at Logo Yazılım.
-* 🛡️ Participant in the "Siber Vatan" cybersecurity program, continuously expanding my skills and knowledge in this domain.
+* 🛡️ **Cybersecurity Specialist** at **Muse Istanbul**, focusing on enterprise network topology, L2/L3 switching, VLAN segmentation, and perimeter defense (NGFW / FortiGate).
+* ⚙️ Operating at the intersection of **low-level systems programming**, **secure API architecture**, and **network-level defense**.
+* 🎓 Associate Degree in **Web Design and Coding** at Anadolu University.
+* 🎖️ **Siber Vatan** cybersecurity program graduate with hands-on practice in cyber defense, packet inspection, and threat analysis.
+* 💼 Prior experience as an **IT Specialist** at **Acunmedya** and **Junior Software Developer** at **Logo Yazılım**.
 
-## 💻 What I'm Working On
-
-* 🏗️ Currently diving deep into **Go** and building an authentication API (`guardian-auth-api`).
-* 📊 Developing a custom personal accounting management panel using **PHP and JavaScript**.
-* ⚙️ Building a comprehensive agency CMS (Content Management System) using **Laravel**.
+---
 
 ## 🛠️ Tech Stack & Focus Areas
 
-* **Languages:** PHP, JavaScript, Go
-* **Frameworks & Technologies:** Laravel, RESTful API Development
-* **Interests:** Back-end Architecture, Cybersecurity, Network Infrastructure
-
-## ⚡ Outside of Coding
-
-* 🏍️ When I'm away from the screen, you can probably find me researching motorcycles (especially 2 and 4-cylinder Japanese bikes) or gaming.
-* 🎧 I code best with solid, story-driven Turkish rap playing in the background.
-
-## 📫 Let's Connect
-
-* **LinkedIn:** [https://www.linkedin.com/in/efe-mirik-a51892276/](#)
-* **Email:** [efemirik05@gmail.com](#)
+* **Languages & Core:** Go (Golang), C, PHP (Laravel), C# (.NET), SQL, Bash/Shell, JavaScript
+* **Network & Security:** Network Topology Design, NGFW / FortiGate, Raw Sockets, Deep Packet Inspection (Wireshark), VLAN Segmentation, Burp Suite, CTF / Threat Analysis
+* **Systems & DevOps:** Linux/Unix Administration, Docker, System Hardening, Git
+* **Databases & Architecture:** PostgreSQL, MySQL, Redis, RESTful APIs, JWT / RBAC, Rate Limiting
 
 ---
-⭐️ *This README is a reflection of my continuous learning and development journey.*
+
+## 💻 Featured Projects
+
+* 🛰️ **[IP-Sentinel]** | *C, Linux Raw Sockets, Wireshark*  
+  A low-level network and port reconnaissance utility built with raw sockets to inspect and filter network traffic beneath user-space abstraction layers.
+* 🔐 **[Guardian API]** | *Go, Redis, Docker, PostgreSQL*  
+  High-performance authentication microservice & API gateway middleware featuring RBAC, Argon2id password hashing, and Redis-backed rate limiting.
+* 🏢 **[Multi-Tenancy Agency CMS]** | *PHP, MySQL*  
+  Scalable, multi-tenant content management system designed with secure tenant isolation and automated migration pipelines.
+
+---
+
+## ⚡ Outside the Terminal
+
+* 🏍️ Motorcycle enthusiast with a sharp eye for 2- and 4-cylinder Japanese engineering.
+* 🎧 Focused coding sessions powered by story-driven Turkish rap.
+
+---
+
+⭐️ *Continuously testing defensive boundaries, writing clean code, and exploring low-level mechanics.*
